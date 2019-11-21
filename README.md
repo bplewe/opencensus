@@ -1,2 +1,3 @@
-# opencensus
-Tools and data for mapping historical census microdata
+# Open Census Mapping
+
+This site is a repository for sharing tools and data for mapping historical Census microdata (household/individual/household level).
